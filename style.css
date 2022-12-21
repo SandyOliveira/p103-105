@@ -13,6 +13,15 @@ body{
   width: 320px;
   height: 240px; 
 }
+
+#reconhecer{
+    font-size: 17px;
+    margin-top: 10px;
+    background-color: rgb(223, 192, 150);
+    border-radius: 10px;
+    border-width: 1,7px;
+}
+
 .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
 {
   color: rgb(255, 255, 255);
