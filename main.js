@@ -5,7 +5,7 @@ Webcam.set({
     png_quality: 90
 });
 camera = document.getElementById("webcam");
- Webcam.attach('#webcam');
+ Webcam.attach('camera');
 
  console.log(ml5.version);
 
